@@ -1,3 +1,1 @@
-import style from './scss/index.scss'
-
-console.log('Word Hello')
+import styles from "./scss/index.scss";
